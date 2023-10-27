@@ -37,6 +37,8 @@ Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LIC
 
 ## Demonstração
 
+### Você pode testar a calculadora através deste [Link](https://lsantana95.github.io/Calculadora/)
+
 ### Versão Desktop:
 ![Calculadora](./assets/../src/assets/img1.png)
 
