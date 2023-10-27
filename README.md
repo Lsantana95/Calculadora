@@ -14,10 +14,10 @@ Projeto de uma calculadora simples desenvolvida em React JS referente ao curso d
 
 ## Tecnologias Utilizadas
 
--Vite (para criar o projeto).
--NPM (rode npm run dev para rodar localmente o projeto). 
--ReactJS (usando o React para fazer a lógica da calculadora usando principalmente o Hook useState).
--Styled Components (para estilizar a calculadora).
+- Vite (para criar o projeto).
+- NPM (rode npm run dev para rodar localmente o projeto). 
+- ReactJS (usando o React para fazer a lógica da calculadora usando principalmente o Hook useState).
+- Styled Components (para estilizar a calculadora).
 
 ## Estrutura do Projeto
 
